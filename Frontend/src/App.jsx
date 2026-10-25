@@ -61,7 +61,7 @@ function Header({ socketConnected }) {
   return (
     <header className="mx-auto flex max-w-6xl items-center justify-between">
       <h1 className="text-3xl font-bold tracking-tight text-blue-600 drop-shadow-sm sm:text-4xl">
-        Scribble<span className="text-pink-500">Play</span>
+        Skribbl<span className="text-pink-500">Play</span>
       </h1>
 
       <div className="flex items-center gap-2 rounded-full border-2 border-white bg-white/90 px-3 py-2 text-sm font-semibold text-slate-700 shadow">
@@ -239,7 +239,7 @@ function FinalResultsScreen({
         <div className="text-6xl">🏆</div>
 
         <p className="mt-4 text-sm font-bold uppercase tracking-[0.25em] text-amber-500">
-          ScribblePlay Champion
+          SlribblPlay Champion
         </p>
 
         <h2 className="mt-3 text-4xl font-bold text-slate-800 sm:text-5xl">
