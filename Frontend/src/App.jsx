@@ -239,7 +239,7 @@ function FinalResultsScreen({
         <div className="text-6xl">🏆</div>
 
         <p className="mt-4 text-sm font-bold uppercase tracking-[0.25em] text-amber-500">
-          ScribblePlay Champion
+          SkribblPlay Champion
         </p>
 
         <h2 className="mt-3 text-4xl font-bold text-slate-800 sm:text-5xl">
