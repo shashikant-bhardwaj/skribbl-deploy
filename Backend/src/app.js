@@ -14,7 +14,7 @@ const _dirname = path.resolve();
 
 app.use(
     cors({
-        origin: "http://localhost:5173",
+        origin: "http://localhost:8000",
         credentials: true
     })
 )
