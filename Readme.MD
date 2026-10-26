@@ -2,6 +2,8 @@
 
 A real-time multiplayer drawing and guessing game. Players join a room, take turns drawing a secret word, and compete to guess what others are drawing.
 
+**Live demo:** [https://skribbl-deploy.onrender.com](https://skribbl-deploy.onrender.com)
+
 ## Features
 
 - Private rooms with shareable room codes, plus Quick Match
